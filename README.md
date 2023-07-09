@@ -1,1 +1,2 @@
-# CinemaApp
+# IS_CinemaApplication
+ Domashna Zadaca 1 - IS
